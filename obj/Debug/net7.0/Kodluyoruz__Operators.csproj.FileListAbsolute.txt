@@ -1,0 +1,15 @@
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\bin\Debug\net7.0\Kodluyoruz__Operators.exe
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\bin\Debug\net7.0\Kodluyoruz__Operators.deps.json
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\bin\Debug\net7.0\Kodluyoruz__Operators.runtimeconfig.json
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\bin\Debug\net7.0\Kodluyoruz__Operators.dll
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\bin\Debug\net7.0\Kodluyoruz__Operators.pdb
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.csproj.AssemblyReference.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.AssemblyInfoInputs.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.AssemblyInfo.cs
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.csproj.CoreCompileInputs.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.dll
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\refint\Kodluyoruz__Operators.dll
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.pdb
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\Kodluyoruz__Operators.genruntimeconfig.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Operators\obj\Debug\net7.0\ref\Kodluyoruz__Operators.dll
